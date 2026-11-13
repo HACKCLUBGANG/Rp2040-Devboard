@@ -1,0 +1,14 @@
+Component Name,Quantity,Product Link,Price (USD per unit)
+RP2040 Microcontroller (LQFN-56),1,https://www.lcsc.com/product-detail/C2040.html,0.9975
+"USB-C Receptacle (TYPE-C-31-M-12, 16P)",1,https://www.lcsc.com/product-detail/C165948.html,0.1724
+NCP1117-3.3 Voltage Regulator (SOT-223),1,https://www.lcsc.com/product-detail/C26537.html,0.2344
+"10uF Ceramic Capacitor (1206, X5R, 50V)",2,https://www.lcsc.com/product-detail/C13585.html,0.2683
+"0.1uF (100nF) Ceramic Capacitor (0402, X7R, 16V)",13,https://www.lcsc.com/product-detail/C1525.html,0.0029
+"33pF Ceramic Capacitor (0402, C0G, 50V)",2,https://www.lcsc.com/product-detail/C466229.html,0.0033
+12MHz Crystal,1,https://www.lcsc.com/product-detail/C5455760.html,Verify
+Blue SMD LED (1206),1,https://www.lcsc.com/product-detail/C28310438.html,0.0158
+330 Ohm SMD Resistor (1206),1,https://www.lcsc.com/product-detail/C4188684.html,Verify
+5.1k Ohm SMD Resistor (USB-C CC1/CC2 Pull-ups),2,https://www.lcsc.com/product-detail/C25905.html,0.0023
+1k Ohm SMD Resistor (0402),2,https://www.lcsc.com/product-detail/C106235.html,0.0041
+10k Ohm SMD Resistor (0402),1,https://www.lcsc.com/product-detail/C60490.html,0.0038
+27 Ohm SMD Resistor (0402),2,https://www.lcsc.com/product-detail/C25100.html,0.0013
